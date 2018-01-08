@@ -1,2 +1,1 @@
-# hello-world
-Hello World!
+Hello Github! This is Ulyn at Silverston Games introducing myself! I'm a young programmer, been working in several languages since I was 12 years old, and currently starting work on my first major project, a text based game about surveying uncharted star systems. Its currently not even ready for Github publishing, but will be soon!
